@@ -155,7 +155,7 @@ You can click the Preview link to take a look at your changes.
     <p>Connect with me on 
         <a href="https://www.facebook.com/yourprofile" target="_blank">Facebook</a>, 
         <a href="https://www.twitter.com/yourprofile" target="_blank">Twitter</a>, 
-        <a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a>.
+        <a href="https://www.instagram.com/shavoycunningham/)" target="_blank">Instagram</a>.
     </p>
     <p>&copy; 2024 Shavoy Cunningham. All rights reserved.</p>
 </footer>
